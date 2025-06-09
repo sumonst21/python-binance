@@ -1,9 +1,9 @@
-autobahn==18.7.1
-certifi==2019.11.28
-cryptography==2.3
+autobahn==20.12.3
+certifi==2024.7.4
+cryptography==44.0.1
 dateparser==0.7.0
 pyOpenSSL==19.0.0
-requests==2.22.0
+requests==2.32.4
 service-identity==17.0.0
-Twisted==19.7.0
+Twisted==24.7.0rc1
 ujson
